@@ -109,7 +109,7 @@ const dataportfolio = [
     img: img1,
     description:
       "The wisdom of life consists in the elimination of non-essentials.",
-    link: "https://www.behance.net/gallery/233471309/MVOI-NGO-Website-Design",
+    link: "https://www.behance.net/gallery/239649557/Andersons-Shawarma-Shop",
   },
   {
     img: img2,
@@ -117,36 +117,36 @@ const dataportfolio = [
       "The wisdom of life consists in the elimination of non-essentials.",
     link: "https://www.behance.net/gallery/228108921/Traffic-Congestion-Gateway-Mobile-App",
   },
-  {
+  /*{
     img: img3,
     description:
       "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
   },
-  {
+ {
     img: img4,
     description:
       "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
-  },
+  }, 
   {
     img: img5,
     description:
       "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    link: "https://www.behance.net/gallery/233471309/MVOI-NGO-Website-Design",
   },
   {
     img: img6,
     description:
       "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
+    link: "https://www.behance.net/gallery/233471309/MVOI-NGO-Website-Design",
+  }, */
 
   {
     img: img7,
     description:
       "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    link: "https://www.behance.net/gallery/233471309/MVOI-NGO-Website-Design",
   },
   {
     img: img8,
